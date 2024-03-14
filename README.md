@@ -16,8 +16,8 @@ function checkGameCompletion(playerScore) {
   }
 }
 
-// Function to redirect to the Google Drive folder
-function redirectToDrive() {
+
+
   window.location.href = 'https://drive.google.com/drive/folders/1wnGI1SQyVXdnYNavQONhBeKvKMUXS_FW';
 }
 </script>
